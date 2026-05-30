@@ -7,4 +7,8 @@ dist/
 build/
 .env
 .agent-reach/
+local/
 *.log
+.DS_Store
+CLAUDE.md
+.coverage
